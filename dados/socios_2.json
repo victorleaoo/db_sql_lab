@@ -1,0 +1,110 @@
+    {
+      "cnpj_basico": 23456789,
+      "identificador_socio": 1,
+      "nome_socio": "Fernanda Lima",
+      "cpf_cnpj_socio": "222.333.444-55",
+      "qualificacao_socio": 49,
+      "data_entrada_sociedade": "2018-05-10",
+      "pais_socio": 1058,
+      "representante_legal": "",
+      "faixa_etaria": 3
+    }
+    {
+      "cnpj_basico": 23456789,
+      "identificador_socio": 2,
+      "nome_socio": "Roberto Cardoso",
+      "cpf_cnpj_socio": "666.777.888-99",
+      "qualificacao_socio": 22,
+      "data_entrada_sociedade": "2018-05-10",
+      "pais_socio": 1058,
+      "representante_legal": "",
+      "faixa_etaria": 4
+    }
+    {
+      "cnpj_basico": 34567890,
+      "identificador_socio": 1,
+      "nome_socio": "Global Investments S.A.",
+      "cpf_cnpj_socio": "00.111.222/0001-33",
+      "qualificacao_socio": 37,
+      "data_entrada_sociedade": "2017-09-22",
+      "pais_socio": 3166,
+      "representante_legal": "Marcelo Representante",
+      "faixa_etaria": null
+    }
+    {
+      "cnpj_basico": 45678901,
+      "identificador_socio": 1,
+      "nome_socio": "Luciana Mendes",
+      "cpf_cnpj_socio": "777.888.999-00",
+      "qualificacao_socio": 49,
+      "data_entrada_sociedade": "2022-01-15",
+      "pais_socio": 1058,
+      "representante_legal": null,
+      "faixa_etaria": 2
+    }
+    {
+      "cnpj_basico": 45678901,
+      "identificador_socio": 2,
+      "nome_socio": "Rodrigo Alves",
+      "cpf_cnpj_socio": "111.222.333-44",
+      "qualificacao_socio": 22,
+      "data_entrada_sociedade": "2022-01-15",
+      "pais_socio": 1058,
+      "representante_legal": "",
+      "faixa_etaria": 3
+    }
+    {
+      "cnpj_basico": 56789012,
+      "identificador_socio": 1,
+      "nome_socio": "Tech Innovations Ltd.",
+      "cpf_cnpj_socio": "00.222.333/0001-44",
+      "qualificacao_socio": 37,
+      "data_entrada_sociedade": "2019-03-30",
+      "pais_socio": 6289,
+      "representante_legal": "Patrícia Representante",
+      "faixa_etaria": 
+    },
+    {
+      "cnpj_basico": 67890123,
+      "identificador_socio": 1,
+      "nome_socio": "Carlos Eduardo Ferreira",
+      "cpf_cnpj_socio": "444.555.666-77",
+      "qualificacao_socio": 49,
+      "data_entrada_sociedade": "2020-11-05",
+      "pais_socio": 1058,
+      "representante_legal": "",
+      "faixa_etaria": 5
+    }
+    {
+      "cnpj_basico": 78901234,
+      "identificador_socio": 1,
+      "nome_socio": "Mariana Costa",
+      "cpf_cnpj_socio": "888.999.000-11",
+      "qualificacao_socio": 49,
+      "data_entrada_sociedade": "2021-08-20",
+      "pais_socio": 1058,
+      "representante_legal": "",
+      "faixa_etaria": 3
+    }
+    {
+      "cnpj_basico": 78901234,
+      "identificador_socio": 2,
+      "nome_socio": "Felipe Santos",
+      "cpf_cnpj_socio": "222.333.444-55",
+      "qualificacao_socio": 22,
+      "data_entrada_sociedade": "2021-08-20",
+      "pais_socio": 1058,
+      "representante_legal": "",
+      "faixa_etaria": 3
+    }
+    {
+      "cnpj_basico": 89012345,
+      "identificador_socio": 1,
+      "nome_socio": "European Ventures GmbH",
+      "cpf_cnpj_socio": "00.333.444/0001-55",
+      "qualificacao_socio": 37,
+      "data_entrada_sociedade": "2018-12-01",
+      "pais_socio": 2319,
+      "representante_legal": "André Representante",
+      "faixa_etaria": 
+    }

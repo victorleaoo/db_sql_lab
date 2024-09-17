@@ -1,0 +1,35 @@
+{"cnpj_basico":12345678,"identificador_socio":1,"nome_socio":"João da Silva","cpf_cnpj_socio":"123.456.789-00","qualificacao_socio":10,"data_entrada_sociedade":"2023-01-01","pais_socio":1058,"representante_legal":"Maria Oliveira","faixa_etaria":3}
+{
+    "cnpj_basico":87654321,
+    "identificador_socio":2,
+    "nome_socio":"Ana Souza",
+    "cpf_cnpj_socio":"987.654.321-00",
+    "qualificacao_socio":22,
+    "data_entrada_sociedade":"2022-05-15",
+    "pais_socio":1058,
+    "representante_legal":"",
+    "faixa_etaria":4
+}
+{
+    "cnpj_basico":23456789,
+    "identificador_socio":3,
+    "nome_socio":"Carlos Ferreira",
+    "cpf_cnpj_socio":"345.678.901-23",
+    "qualificacao_socio":5,
+    "data_entrada_sociedade":"2021-11-30",
+    "pais_socio":2496,
+    "representante_legal":"Pedro Santos",
+    "faixa_etaria":5
+}
+{"cnpj_basico":34567890,"identificador_socio":4,"nome_socio":"Empresa XYZ Ltda","cpf_cnpj_socio":"12.345.678/0001-90","qualificacao_socio":37,"data_entrada_sociedade":"2023-03-10","pais_socio":1058,"representante_legal":"","faixa_etaria":0}
+{
+    "cnpj_basico":45678901,
+    "identificador_socio":5,
+    "nome_socio":"Mariana Costa",
+    "cpf_cnpj_socio":"567.890.123-45",
+    "qualificacao_socio":49,
+    "data_entrada_sociedade":"2020-08-22",
+    "pais_socio":1058,
+    "representante_legal":"",
+    "faixa_etaria":2
+}
