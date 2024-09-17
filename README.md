@@ -1,6 +1,8 @@
 
 <img src="https://raw.githubusercontent.com/Databricks-BR/lab_sql/main/images/header_handson_sql.png">
 
+# Primeiro Commit pelo Databricks: Victor Leão
+
 # Databricks SQL Labs 
 
 Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades de Analytics (SQL, Query, Dask, DataViz, SQL end-point).
